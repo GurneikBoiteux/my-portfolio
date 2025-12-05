@@ -2,17 +2,22 @@ import { useState } from "react";
 
 const projects = [
   {
-    title: "HomeGuard Pro — ESP32 Alarm System",
+    title: "HomeGuard — ESP32 Alarm System",
     description:
-      "An end-to-end home security system built on an ESP32 using FreeRTOS tasks, I2C sensors, keypad input, OLED display, and WiFi alerts. Includes web dashboard and secure arming/disarming.",
+      "An end-to-end home security system built on an ESP32 using FreeRTOS tasks, I2C sensors, keypad input, LCD display, and WiFi alerts. Includes web dashboard and secure arming/disarming.",
   },
   {
-    title: "Smart OBD2 Car Assistant",
+    title: "TCP Chat Server",
     description:
-      "A real-time driver analytics system that reads OBD2 data, detects unsafe events, tracks efficiency, logs trips, and sends insights to a custom dashboard app via Bluetooth + MQTT.",
+      "A C++ TCP client–server chat system built with raw sockets, thread-safe multi-client handling, and a modular OOP architecture.",
   },
   {
-    title: "Laptop Security & Focus Monitor",
+    title: "Python Data Sorting, Filtering, and Visualization",
+    description:
+      "Tool A modular Python data analytics pipeline with CSV processing, custom sorting, NumPy curve-fitting, Matplotlib visualizations, and command-line workflow automation.",
+  },
+  {
+    title: "Laptop Security & Focus Monitor (In progress...)",
     description:
       "AI-powered laptop monitor using OpenCV + MediaPipe to detect intruders, track attention, provide productivity analytics, and lock the system when unauthorized users appear.",
   },

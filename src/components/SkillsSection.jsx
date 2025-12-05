@@ -13,7 +13,7 @@ export const SkillsSection = () => {
             },
             {
               title: "Full-Stack Development",
-              desc: "React, Node.js, Express, REST APIs, TailwindCSS.",
+              desc: "React, Node.js, REST APIs, TailwindCSS.",
             },
             {
               title: "Systems Programming",

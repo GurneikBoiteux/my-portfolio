@@ -33,8 +33,8 @@ export const HeroSection = () => {
         </h1>
 
         <p className="max-w-2xl mx-auto text-zinc-300 text-sm md:text-base mb-6">
-          I design and build full-stack applications and embedded systems that connect hardware, software, and people. 
-          From ESP32 alarm systems to OBD2 analytics and security tools, I like turning complex problems into reliable products.
+          I design and build embedded systems projects and full-stack applications that connect hardware, software, and people. 
+          From ESP32 alarm systems to AI laptop productivity managers, I like turning complex problems into reliable products.
         </p>
 
         <div className="flex justify-center gap-4">
